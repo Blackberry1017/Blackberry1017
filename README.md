@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Blackberry1017
+- 👋 Hi, I’m helena
 - 👀 I’m interested in Coding and Data science
-- 🌱 I’m currently learning B.tech/Java 
+- 🌱 I’m currently learning B.tech- AI 
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me - sejalchaudhari1017@gmail.com`
 
