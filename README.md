@@ -1,4 +1,4 @@
-- 👋 Hi, I’m helena!
+- 👋 Hi, I’m sejal!
 - 👀 I’m interested in Coding and Data science
 - 🌱 I’m currently learning B.tech- AI 
 - 💞️ I’m looking to collaborate on Projects
